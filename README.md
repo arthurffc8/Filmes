@@ -9,7 +9,7 @@
 Clique na imagem para visualizar o dashboard interativo no Power BI:
 
 
-[![ProjetoGame](https://github.com/arthurffc8/MeusProjetos/blob/main/AvaliacaoFilmes/FotoProjetoFilmes.png)](https://app.powerbi.com/view?r=eyJrIjoiMjBmYTFhNDUtMTZhMS00NmE5LWI5OWMtY2E3NmNmOTdjYTlmIiwidCI6ImRmY2E2YzQyLWM0NjktNDg1Ny05NDk5LWViN2YzNjczZjY4NCJ9)
+[![ProjetoGame](https://github.com/arthurffc8/Filmes/blob/main/FotoProjetoFilmes.png)](https://app.powerbi.com/view?r=eyJrIjoiMjBmYTFhNDUtMTZhMS00NmE5LWI5OWMtY2E3NmNmOTdjYTlmIiwidCI6ImRmY2E2YzQyLWM0NjktNDg1Ny05NDk5LWViN2YzNjczZjY4NCJ9)
 
 
 
