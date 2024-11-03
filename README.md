@@ -26,7 +26,7 @@ Clique na imagem para visualizar o dashboard interativo no Power BI:
 - **Power Query**: Utilizado para limpar e modelar os dados.
 - **Power BI**: Utilizado para criação das medidas, de dashboards interativos e visualizações avançadas.
 
-projetoFilmes.ipynb:
+`projetoFilmes.ipynb`:
 ```python
 import pandas as pd
 #importando o arquivo csv
