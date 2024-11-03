@@ -26,6 +26,26 @@ Clique na imagem para visualizar o dashboard interativo no Power BI:
 - **Power Query**: Utilizado para limpar e modelar os dados.
 - **Power BI**: Utilizado para criação das medidas, de dashboards interativos e visualizações avançadas.
 
+projetoFilmes.ipynb:
+```python
+import pandas as pd
+#importando o arquivo csv
+filmes_df = pd.read_csv('top_rated_9000_movies_on_TMDB_Puro.csv', sep=',')
+filmes_df
+
+# excluindo as colunas desnecessárias
+
+filmes_df = filmes_df.drop(columns=['original_language', 'genre_ids'])
+filmes_df
+
+# renomeando as colunas
+
+filmes_df = filmes_df.rename(columns={'id': 'Id', 'title': 'Titulo', 'release_date': "Data de Lançamento", 'vote_average': 'Media de Voto', 'vote_count': 'Contagem de Voto', 'popularity': 'Popularidade', 'overview': 'Resumo', 'Genres': "Genero"})
+filmes_df
+
+filmes_df.to_csv('FilmesDataSet.csv', sep=';')
+```
+
 
   
 ## Principais Insights
